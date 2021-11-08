@@ -9,4 +9,4 @@ It is a project where the PCA algorithm is implemented from scratch and compared
 
 </br>
 Please find the comparisons below,</br>
-![](PCA/images/iris.png)
+![](iris.png)
