@@ -8,5 +8,6 @@ It is a project where the PCA algorithm is implemented from scratch and compared
     * PCA_from_scratch_sklearn(X): it uses sklearn.decomposition.PCA to find principal components of X.</br>
 
 </br>
-Please find the comparisons below,</br>
-![](iris.png)
+Please find the comparisons below,</br></br>
+<img src="/images/iris.png" alt="iris"/> </br></br>
+<img src="/images/mall_customer.png" alt="mall_customer"/>
